@@ -1,0 +1,65 @@
+.header-logo__container {
+    margin: 0;
+}
+
+.main-menu__tabs {
+    display: none;
+}
+
+.navbar-mobile__visible li {
+    border: 0;
+    width: 100%;
+}
+
+.navbar-mobile__visible li a {
+    color: black;
+    font-weight: 600;
+}
+
+.navbar-mobile__visible li a:hover {
+    text-decoration: underline;
+}
+
+.newsletter-form__container {
+    margin: 0 0 10px 0;
+}
+
+.newsletter-permission {
+    margin: 0;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.banner-img {
+    width: 100%;
+}
+
+footer {
+    height: 200px;
+}
+
+/*.navbar-mobile {*/
+/*display: block;*/
+/*}*/
+
+.menu-icon__container {
+    float: right;
+}
+
+.menu-icon {
+    width: 40px;
+    display: block;
+    margin-right: 10px;
+}
+
+.navbar {
+    min-height: 20px;
+}
+
+.navbar-mobile__visible {
+    display: block;
+    margin-top: 35px;
+}
+
+
+

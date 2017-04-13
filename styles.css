@@ -1,0 +1,166 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.header-orange {
+    background-color: #F1801A;
+    height: 28px;
+}
+
+.header-logo__wrapper {
+    height: 74px;
+    background-image:url("img/pattern.png");
+    -webkit-box-shadow: 0px 7px 14px -2px rgba(163,161,161,1);
+    -moz-box-shadow: 0px 7px 14px -2px rgba(163,161,161,1);
+    box-shadow: 0px 7px 14px -2px rgba(163,161,161,1);
+}
+
+.header-logo__container {
+    margin: 5px 0 0 60px;
+
+}
+
+.navbar-mobile {
+    display: none;
+}
+
+.menu-icon {
+    display: none;
+}
+
+.main-menu__tabs {
+    margin-top: 25px;
+    display: inline-block;
+    border-left: 1px solid #B2B2B2;
+}
+
+
+.main-menu__tabs li {
+    text-align: center;
+    display: inline-block;
+    padding: 0 20px 0 20px;
+    box-sizing: border-box;
+    border-right: 1px solid #B2B2B2;
+
+}
+
+
+
+.main-menu__tabs li a{
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: 600;
+    display: inline-block;
+    color: #6D6D6D;
+
+}
+
+.main-menu__tabs li a:hover {
+    background-color: white;
+    color: #6D6D6D;
+    text-align: center;
+    display: inline-block;
+}
+
+.navbar {
+    float: none;
+    border: none;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.navbar-nav {
+    float: none;
+}
+
+.page-title__container {
+    display: inline;
+}
+
+.page-title {
+    text-align: center;
+    color: #F1801A;
+    font-size: 38px;
+    letter-spacing: 2px;
+
+}
+
+.content-wrapper {
+    display: inline;
+}
+
+.banner-container {
+    text-align: center;
+}
+
+.newsletter-form__container {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 37%;
+
+}
+
+
+.newsletter-form__wrapper {
+    display: inline;
+}
+
+.email-input {
+    border-radius: 0;
+    border: 1px solid #F1801A;
+    height: 38px;
+}
+
+.validation-alert {
+    color: #F45F69;
+    font-size: 13px;
+    font-weight: 700;
+    margin-top: 10px;
+    line-height: 10px;
+    display: none;
+}
+
+.newsletter-submit__btn {
+    border-radius: 0;
+    width: 100%;
+    background: #F1801A;
+    color: white;
+    height: 38px;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.newsletter-submit__btn:hover {
+    color: white;
+}
+
+.newsletter-permission__text {
+    color: #B8B5B6;
+    font-size: 10px;
+}
+
+.newsletter-permission {
+    margin: 40px 10%;
+    width: 85%;
+}
+
+footer {
+    background-color: #F1801A;
+    height: 100px;
+}
+
+.footer-wrapper {
+    display: inline;
+    margin-top: 10px;
+}
+
+.footer-text__container {
+    text-align: center;
+}
+
+.footer-text {
+    text-align: center;
+    color: white;
+    font-size: 13px;
+}
